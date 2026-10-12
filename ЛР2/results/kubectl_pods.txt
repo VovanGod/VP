@@ -1,0 +1,6 @@
+NAME                                                   READY   STATUS    RESTARTS   AGE
+prometheus-kube-prometheus-operator-7c88b486c9-l2b9x   1/1     Running   0          23m
+prometheus-kube-state-metrics-599975f55f-4hkwp         1/1     Running   0          23m
+prometheus-prometheus-kube-prometheus-prometheus-0     2/2     Running   0          23m
+prometheus-prometheus-node-exporter-2ghqp              1/1     Running   0          23m
+web-app-67675f894c-9p647                               1/1     Running   0          5m13s

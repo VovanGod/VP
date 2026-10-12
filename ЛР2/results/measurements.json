@@ -1,0 +1,167 @@
+[
+  {
+    "vus": 10,
+    "summary": "results/k6_10.json",
+    "log": "results/k6_10.txt",
+    "snapshots": [
+      {
+        "elapsed_seconds": 45,
+        "up": 1.0,
+        "rps": 10.0,
+        "success_rps": 10.0,
+        "errors_rps": 0.0,
+        "errors_percent": 0.0,
+        "p95_ms": 24.846938775510203,
+        "p99_ms": 32.49999999999989,
+        "cpu_percent": 0.5451695545577258,
+        "memory_mb": 12.0078125
+      },
+      {
+        "elapsed_seconds": 60,
+        "up": 1.0,
+        "rps": 9.6,
+        "success_rps": 9.6,
+        "errors_rps": 0.0,
+        "errors_percent": 0.0,
+        "p95_ms": 24.851063829787236,
+        "p99_ms": 32.99999999999989,
+        "cpu_percent": 0.7002305139295766,
+        "memory_mb": 12.0078125
+      },
+      {
+        "elapsed_seconds": 75,
+        "up": 1.0,
+        "rps": 9.6,
+        "success_rps": 9.6,
+        "errors_rps": 0.0,
+        "errors_percent": 0.0,
+        "p95_ms": 24.75,
+        "p99_ms": 24.95,
+        "cpu_percent": 0.7909845410187426,
+        "memory_mb": 12.02734375
+      },
+      {
+        "elapsed_seconds": 82,
+        "up": 1.0,
+        "rps": 10.0,
+        "success_rps": 10.0,
+        "errors_rps": 0.0,
+        "errors_percent": 0.0,
+        "p95_ms": 24.75,
+        "p99_ms": 24.95,
+        "cpu_percent": 0.8206065737818489,
+        "memory_mb": 12.0078125
+      }
+    ]
+  },
+  {
+    "vus": 50,
+    "summary": "results/k6_50.json",
+    "log": "results/k6_50.txt",
+    "snapshots": [
+      {
+        "elapsed_seconds": 45,
+        "up": 1.0,
+        "rps": 48.800000000000004,
+        "success_rps": 48.800000000000004,
+        "errors_rps": 0.0,
+        "errors_percent": 0.0,
+        "p95_ms": 24.809128630705395,
+        "p99_ms": 27.00000000000001,
+        "cpu_percent": 2.8199152825028353,
+        "memory_mb": 12.03515625
+      },
+      {
+        "elapsed_seconds": 60,
+        "up": 1.0,
+        "rps": 49.120000000000005,
+        "success_rps": 49.120000000000005,
+        "errors_rps": 0.0,
+        "errors_percent": 0.0,
+        "p95_ms": 24.84066390041494,
+        "p99_ms": 28.828571428571472,
+        "cpu_percent": 2.7397079490557754,
+        "memory_mb": 12.0390625
+      },
+      {
+        "elapsed_seconds": 75,
+        "up": 1.0,
+        "rps": 48.0,
+        "success_rps": 48.0,
+        "errors_rps": 0.0,
+        "errors_percent": 0.0,
+        "p95_ms": 24.991243432574432,
+        "p99_ms": 35.862068965517224,
+        "cpu_percent": 2.6747723584565453,
+        "memory_mb": 12.02734375
+      },
+      {
+        "elapsed_seconds": 82,
+        "up": 1.0,
+        "rps": 48.88,
+        "success_rps": 48.88,
+        "errors_rps": 0.0,
+        "errors_percent": 0.0,
+        "p95_ms": 41.11538461538461,
+        "p99_ms": 83.92105263157896,
+        "cpu_percent": 2.688694982394366,
+        "memory_mb": 12.03125
+      }
+    ]
+  },
+  {
+    "vus": 200,
+    "summary": "results/k6_200.json",
+    "log": "results/k6_200.txt",
+    "snapshots": [
+      {
+        "elapsed_seconds": 45,
+        "up": 1.0,
+        "rps": 133.60000000000002,
+        "success_rps": 97.96000000000001,
+        "errors_rps": 35.64,
+        "errors_percent": 26.67664670658683,
+        "p95_ms": 547.3331204088151,
+        "p99_ms": 549.466624081763,
+        "cpu_percent": 4.170423594105708,
+        "memory_mb": 14.765625
+      },
+      {
+        "elapsed_seconds": 60,
+        "up": 1.0,
+        "rps": 132.8,
+        "success_rps": 97.80000000000003,
+        "errors_rps": 35.0,
+        "errors_percent": 26.355421686746986,
+        "p95_ms": 547.4111041796632,
+        "p99_ms": 549.4822208359327,
+        "cpu_percent": 5.136308464486459,
+        "memory_mb": 16.0625
+      },
+      {
+        "elapsed_seconds": 75,
+        "up": 1.0,
+        "rps": 132.8,
+        "success_rps": 97.76,
+        "errors_rps": 35.04,
+        "errors_percent": 26.385542168674696,
+        "p95_ms": 547.3858267716536,
+        "p99_ms": 549.4771653543307,
+        "cpu_percent": 7.279756569847856,
+        "memory_mb": 15.31640625
+      },
+      {
+        "elapsed_seconds": 82,
+        "up": 1.0,
+        "rps": 132.88,
+        "success_rps": 97.92,
+        "errors_rps": 34.96,
+        "errors_percent": 26.309452137266707,
+        "p95_ms": 547.3660006343166,
+        "p99_ms": 549.4732001268633,
+        "cpu_percent": 6.469147239328418,
+        "memory_mb": 15.24609375
+      }
+    ]
+  }
+]
